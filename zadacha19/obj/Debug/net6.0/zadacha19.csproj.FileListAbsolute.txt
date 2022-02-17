@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\c#семинар\zadacha19\bin\Debug\net6.0\zadacha19.exe
+C:\Users\User\Desktop\c#семинар\zadacha19\bin\Debug\net6.0\zadacha19.deps.json
+C:\Users\User\Desktop\c#семинар\zadacha19\bin\Debug\net6.0\zadacha19.runtimeconfig.json
+C:\Users\User\Desktop\c#семинар\zadacha19\bin\Debug\net6.0\zadacha19.dll
+C:\Users\User\Desktop\c#семинар\zadacha19\bin\Debug\net6.0\ref\zadacha19.dll
+C:\Users\User\Desktop\c#семинар\zadacha19\bin\Debug\net6.0\zadacha19.pdb
+C:\Users\User\Desktop\c#семинар\zadacha19\obj\Debug\net6.0\zadacha19.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#семинар\zadacha19\obj\Debug\net6.0\zadacha19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c#семинар\zadacha19\obj\Debug\net6.0\zadacha19.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#семинар\zadacha19\obj\Debug\net6.0\zadacha19.AssemblyInfo.cs
+C:\Users\User\Desktop\c#семинар\zadacha19\obj\Debug\net6.0\zadacha19.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#семинар\zadacha19\obj\Debug\net6.0\zadacha19.dll
+C:\Users\User\Desktop\c#семинар\zadacha19\obj\Debug\net6.0\ref\zadacha19.dll
+C:\Users\User\Desktop\c#семинар\zadacha19\obj\Debug\net6.0\zadacha19.pdb
+C:\Users\User\Desktop\c#семинар\zadacha19\obj\Debug\net6.0\zadacha19.genruntimeconfig.cache
