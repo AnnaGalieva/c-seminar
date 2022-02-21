@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\c#семинар\zadacha48\obj\Debug\net6.0\zadacha48.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#семинар\zadacha48\obj\Debug\net6.0\zadacha48.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c#семинар\zadacha48\obj\Debug\net6.0\zadacha48.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#семинар\zadacha48\obj\Debug\net6.0\zadacha48.AssemblyInfo.cs
+C:\Users\User\Desktop\c#семинар\zadacha48\obj\Debug\net6.0\zadacha48.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#семинар\zadacha48\bin\Debug\net6.0\zadacha48.exe
+C:\Users\User\Desktop\c#семинар\zadacha48\bin\Debug\net6.0\zadacha48.deps.json
+C:\Users\User\Desktop\c#семинар\zadacha48\bin\Debug\net6.0\zadacha48.runtimeconfig.json
+C:\Users\User\Desktop\c#семинар\zadacha48\bin\Debug\net6.0\zadacha48.dll
+C:\Users\User\Desktop\c#семинар\zadacha48\bin\Debug\net6.0\ref\zadacha48.dll
+C:\Users\User\Desktop\c#семинар\zadacha48\bin\Debug\net6.0\zadacha48.pdb
+C:\Users\User\Desktop\c#семинар\zadacha48\obj\Debug\net6.0\zadacha48.dll
+C:\Users\User\Desktop\c#семинар\zadacha48\obj\Debug\net6.0\ref\zadacha48.dll
+C:\Users\User\Desktop\c#семинар\zadacha48\obj\Debug\net6.0\zadacha48.pdb
+C:\Users\User\Desktop\c#семинар\zadacha48\obj\Debug\net6.0\zadacha48.genruntimeconfig.cache
