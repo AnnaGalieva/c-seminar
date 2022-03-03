@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\c#семинар\zadacha67\bin\Debug\net6.0\zadacha67.exe
+C:\Users\User\Desktop\c#семинар\zadacha67\bin\Debug\net6.0\zadacha67.deps.json
+C:\Users\User\Desktop\c#семинар\zadacha67\bin\Debug\net6.0\zadacha67.runtimeconfig.json
+C:\Users\User\Desktop\c#семинар\zadacha67\bin\Debug\net6.0\zadacha67.dll
+C:\Users\User\Desktop\c#семинар\zadacha67\bin\Debug\net6.0\ref\zadacha67.dll
+C:\Users\User\Desktop\c#семинар\zadacha67\bin\Debug\net6.0\zadacha67.pdb
+C:\Users\User\Desktop\c#семинар\zadacha67\obj\Debug\net6.0\zadacha67.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#семинар\zadacha67\obj\Debug\net6.0\zadacha67.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c#семинар\zadacha67\obj\Debug\net6.0\zadacha67.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#семинар\zadacha67\obj\Debug\net6.0\zadacha67.AssemblyInfo.cs
+C:\Users\User\Desktop\c#семинар\zadacha67\obj\Debug\net6.0\zadacha67.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#семинар\zadacha67\obj\Debug\net6.0\zadacha67.dll
+C:\Users\User\Desktop\c#семинар\zadacha67\obj\Debug\net6.0\ref\zadacha67.dll
+C:\Users\User\Desktop\c#семинар\zadacha67\obj\Debug\net6.0\zadacha67.pdb
+C:\Users\User\Desktop\c#семинар\zadacha67\obj\Debug\net6.0\zadacha67.genruntimeconfig.cache
